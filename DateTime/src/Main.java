@@ -7,5 +7,6 @@ public class Main {
         LocalDateTime now = LocalDateTime.now();
         System.out.println("Дата в настоящее время:  " + now.format(formatter));
 
+        //Smth just for Git test
     }
 }
