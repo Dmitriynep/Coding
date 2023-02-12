@@ -4,7 +4,7 @@ public class Main {
         Gearbox gearbox = new Gearbox(type);
 
         System.out.println(gearbox.getType());
-      //Smth change for Git Test1
+      //Smth change for Git test2
     }
 
 }
