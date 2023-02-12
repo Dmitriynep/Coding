@@ -9,6 +9,7 @@ public class Main {
         System.out.println("1. Сумма чисел = " + enteredArithmetic.sum() + "\n2. Произведение чисел = " + enteredArithmetic.multiply() + "\n3. Максимальное число = " + enteredArithmetic.maxNumber() + "\n4. Минимальное число = " + enteredArithmetic.minNumber());
 
     }
-//pewww
+
+//pew-pe-poo
 }
 
