@@ -34,6 +34,6 @@ public class Main {
             System.out.println(" Всё тип-топ ! =)");
         }
     }
-    //tgfertgerre wertf
+    //изменения для 1ой ветки
 }
 
