@@ -35,5 +35,9 @@ public class Main {
         }
 
     }
+<<<<<<< Updated upstream
+=======
+    //изменения для 1ой ветки
+>>>>>>> Stashed changes
 }
 
