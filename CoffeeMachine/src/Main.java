@@ -33,8 +33,6 @@ public class Main {
         if (!hasErrors) {
             System.out.println(" Всё тип-топ ! =)");
         }
-//Портфолио
-        //Информация к размышлению
     }
 }
 
