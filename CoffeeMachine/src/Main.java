@@ -34,5 +34,7 @@ public class Main {
             System.out.println(" Всё тип-топ ! =)");
         }
     }
+
+    //test text
 }
 
